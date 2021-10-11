@@ -10,7 +10,7 @@ body
 {
 	min-height: 100vh;
 	font-family: 'Poppins', sans-serif;
-	background: url('deer.jpg') no-repeat;
+	background: url('bg.jpg') no-repeat;
 	background-size: cover;
 	background-position: center;
 }
