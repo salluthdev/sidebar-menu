@@ -111,6 +111,7 @@ body
 	font-size: 60px;
 	text-align: center;
 	line-height: 80px;
+	text-shadow: 2px 2px 20px #000;
 }
 
 @media (max-width: 900px)
