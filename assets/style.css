@@ -93,12 +93,12 @@ main
 main h1
 {
 	width: 600px;
-	color: #fff;
 	font-size: 60px;
 	text-align: center;
 	line-height: 80px;
-	text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+	color: #fff;
 	-webkit-text-stroke: 0.8px rgba(0, 0, 0, 0.8);
+	text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
 }
 
 @media (max-width: 900px)
