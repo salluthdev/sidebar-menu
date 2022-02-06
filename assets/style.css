@@ -97,14 +97,14 @@ body
 	margin: 25px;
 	cursor: pointer;
 }
-.main 
+main 
 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
 }
-.main h1
+main h1
 {
 	width: 600px;
 	color: #fff;
@@ -117,7 +117,7 @@ body
 
 @media (max-width: 900px)
 {
-	.main h1
+	main h1
 	{
 		width: 100%;
 		font-size: 40px;
