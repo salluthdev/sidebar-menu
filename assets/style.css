@@ -36,7 +36,6 @@ body
 }
 .side-bar .menu .item
 {
-	position: relative;
 	cursor: pointer;
 }
 .side-bar .menu .item a 
