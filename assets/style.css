@@ -10,7 +10,7 @@ body
 {
 	min-height: 100vh;
 	font-family: 'Poppins', sans-serif;
-	background: url('bg.jpg') no-repeat;
+	background: url('bg-5.webp') no-repeat;
 	background-size: cover;
 	background-position: center;
 }
@@ -107,17 +107,20 @@ body
 }
 .main h1
 {
+	width: 600px;
 	color: #fff;
 	font-size: 60px;
 	text-align: center;
 	line-height: 80px;
-	text-shadow: 2px 2px 20px #000;
+	text-shadow: 2px 2px 22px rgba(0, 0, 0, 0.4);
+	-webkit-text-stroke: 0.8px rgba(0, 0, 0, 0.8);
 }
 
 @media (max-width: 900px)
 {
 	.main h1
 	{
+		width: 100%;
 		font-size: 40px;
 		line-height: 60px;
 	}
