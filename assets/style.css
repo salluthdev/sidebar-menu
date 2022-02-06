@@ -49,7 +49,7 @@ body
 .side-bar .menu .item a:hover
 {
 	background: #8621fb;
-	transition: 0.3s ease;
+	transition: 0.3s;
 }
 .side-bar .menu .item i 
 {
@@ -60,7 +60,7 @@ body
 	position: absolute;
 	right: 0;
 	margin: 17px 20px;
-	transition: 0.3 ease;
+	transition: 0.3s;
 }
 .side-bar .menu .item .sub-menu
 {
