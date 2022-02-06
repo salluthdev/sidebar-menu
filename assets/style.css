@@ -9,7 +9,7 @@
 body
 {
 	font-family: 'Poppins', sans-serif;
-	background: url('bg-5.webp') no-repeat;
+	background: url('bg-5.webp');
 	background-size: cover;
 	background-position: center;
 }
