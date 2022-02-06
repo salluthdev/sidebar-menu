@@ -112,7 +112,7 @@ body
 	font-size: 60px;
 	text-align: center;
 	line-height: 80px;
-	text-shadow: 2px 2px 22px rgba(0, 0, 0, 0.4);
+	text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
 	-webkit-text-stroke: 0.8px rgba(0, 0, 0, 0.8);
 }
 
