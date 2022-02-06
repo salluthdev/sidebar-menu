@@ -40,27 +40,28 @@ body
 }
 .side-bar .menu .item a 
 {
-	display: block;
+	display: flex;
+	align-items: center;
 	text-decoration: none;
-	line-height: 50px;
+	line-height: 48px;
 	color: #fff;
-	padding: 5px 30px;
+	padding: 4px 28px;
 }
 .side-bar .menu .item a:hover
 {
 	background: #8621fb;
-	transition: 0.3s;
+	transition: 0.4s;
 }
 .side-bar .menu .item i 
 {
-	margin-right: 15px;
+	margin-right: 14px;
 }
 .side-bar .menu .item a .dropdown
 {
 	position: absolute;
 	right: 0;
 	margin: 17px 20px;
-	transition: 0.3s;
+	transition: 0.4s;
 }
 .side-bar .menu .item .sub-menu
 {
