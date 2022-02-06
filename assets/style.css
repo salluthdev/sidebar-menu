@@ -21,7 +21,6 @@ body
 	height: 100%;
 	overflow-y: auto;
 	background: #c4423c;
-	backdrop-filter: blur(15px);
 	transition: 0.6s ease;
 	transition-property: right;
 }
