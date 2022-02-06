@@ -9,9 +9,8 @@
 body
 {
 	font-family: 'Poppins', sans-serif;
-	background: url('bg.webp');
+	background: url('bg.webp') center;
 	background-size: cover;
-	background-position: center;
 }
 .side-bar
 {
