@@ -40,10 +40,10 @@ body
 }
 .side-bar .menu .item a 
 {
+	display: block;
 	color: #fff;
 	font-size: 16px;
 	text-decoration: none;
-	display: block;
 	padding: 5px 30px;
 	line-height: 50px;
 }
