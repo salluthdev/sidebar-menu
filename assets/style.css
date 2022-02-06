@@ -15,11 +15,11 @@ body
 .menu-btn
 {
 	position: absolute;
+	top: 24px;
+	right: 24px;
 	color: #fff;
 	font-size: 20px;
-	margin: 25px;
 	cursor: pointer;
-	right: 0;
 }
 .side-bar
 {
